@@ -25,7 +25,7 @@ class App extends React.Component {
             </ExampleCard>
           </Grid.Column>
           <Grid.Column>
-            <ExampleCard name='Tyrian Lanister' image={TyrianLanister} date='1900' friends='3'>
+            <ExampleCard name='Tyrian Lannister' image={TyrianLanister} date='1900' friends='3'>
               Lord Tyrion Lannister is the youngest child of Lord Tywin Lannister and younger brother of Cersei and Jaime Lannister. A dwarf, he uses his wit and intellect to overcome the prejudice he faces.
             </ExampleCard>
           </Grid.Column>
